@@ -1,18 +1,4 @@
-/*
- Navicat Premium Data Transfer
 
- Source Server         : xnatcc
- Source Server Type    : MySQL
- Source Server Version : 50718
- Source Host           : gz-cynosdbmysql-grp-1n8znij9.sql.tencentcdb.com:27341
- Source Schema         : xnatc
-
- Target Server Type    : MySQL
- Target Server Version : 50718
- File Encoding         : 65001
-
- Date: 22/01/2023 01:37:17
-*/
 
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
